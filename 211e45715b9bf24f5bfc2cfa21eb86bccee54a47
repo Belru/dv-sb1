@@ -22,6 +22,30 @@
       "revId": "211e45715b9bf24f5bfc2cfa21eb86bccee54a47",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": true
+    },
+    {
+      "key": {
+        "uuid": "b11cda45_9cca8b27",
+        "filename": "HelloWorld/HelloWorld/Program.cs",
+        "patchSetId": 1
+      },
+      "lineNbr": 13,
+      "author": {
+        "id": 1014642
+      },
+      "writtenOn": "2018-07-19T02:05:19Z",
+      "side": 1,
+      "message": "Stupid syntax rules, we discussed and agreed it was ok",
+      "parentUuid": "35e6582c_972016d6",
+      "range": {
+        "startLine": 13,
+        "startChar": 31,
+        "endLine": 13,
+        "endChar": 42
+      },
+      "revId": "211e45715b9bf24f5bfc2cfa21eb86bccee54a47",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
